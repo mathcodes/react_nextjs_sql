@@ -16,8 +16,8 @@ This project is a **React and Next.js** application designed for **data visualiz
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/data-visualization-app.git
-cd data-visualization-app
+git clone https://github.com/mathcodes/react_nextjs_sql.git
+cd react_nextjs_sql
 ```
 
 2. Install dependencies:
